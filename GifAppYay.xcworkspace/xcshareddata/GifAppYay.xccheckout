@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BA5A3FBB-1490-410E-B062-918733DDBC61</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GifAppYay</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B00E6743-05BA-44C5-BAC4-244EFEE481F8</key>
+		<string>ssh://git.hubteam.com/ProductBootcamp/iOSLabTwo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GifAppYay.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B00E6743-05BA-44C5-BAC4-244EFEE481F8</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.hubteam.com/ProductBootcamp/iOSLabTwo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B00E6743-05BA-44C5-BAC4-244EFEE481F8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B00E6743-05BA-44C5-BAC4-244EFEE481F8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GifAppYay</string>
+		</dict>
+	</array>
+</dict>
+</plist>

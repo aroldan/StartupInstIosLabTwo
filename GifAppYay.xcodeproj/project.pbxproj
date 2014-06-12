@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A254AC0A22684D91BE5E9D12 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0BC70B188FDA44949BAA9A86 /* libPods.a */; };
+		A928850C194A038400ADB36D /* GASearchResultsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A928850B194A038400ADB36D /* GASearchResultsViewController.m */; };
 		A9388D3A19478EEE00179C3F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9388D3919478EEE00179C3F /* Foundation.framework */; };
 		A9388D3C19478EEE00179C3F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9388D3B19478EEE00179C3F /* CoreGraphics.framework */; };
 		A9388D3E19478EEE00179C3F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A9388D3D19478EEE00179C3F /* UIKit.framework */; };
@@ -41,6 +42,8 @@
 /* Begin PBXFileReference section */
 		0BC70B188FDA44949BAA9A86 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		467CC0ED2646436F9408F544 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		A928850A194A038400ADB36D /* GASearchResultsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GASearchResultsViewController.h; sourceTree = "<group>"; };
+		A928850B194A038400ADB36D /* GASearchResultsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GASearchResultsViewController.m; sourceTree = "<group>"; };
 		A9388D3619478EEE00179C3F /* GifAppYay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GifAppYay.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A9388D3919478EEE00179C3F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		A9388D3B19478EEE00179C3F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -136,6 +139,8 @@
 				A9388D4B19478EEE00179C3F /* Main.storyboard */,
 				A9388D4E19478EEE00179C3F /* GAMasterViewController.h */,
 				A9388D4F19478EEE00179C3F /* GAMasterViewController.m */,
+				A928850A194A038400ADB36D /* GASearchResultsViewController.h */,
+				A928850B194A038400ADB36D /* GASearchResultsViewController.m */,
 				A9388D5119478EEE00179C3F /* GADetailViewController.h */,
 				A9388D5219478EEE00179C3F /* GADetailViewController.m */,
 				A9388D7519479C2700179C3F /* GASingleGIFViewController.h */,
@@ -320,6 +325,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A9388D7A1947A04A00179C3F /* GAGifResult.m in Sources */,
+				A928850C194A038400ADB36D /* GASearchResultsViewController.m in Sources */,
 				A9388D5019478EEE00179C3F /* GAMasterViewController.m in Sources */,
 				A9388D5319478EEE00179C3F /* GADetailViewController.m in Sources */,
 				A9388D4A19478EEE00179C3F /* GAAppDelegate.m in Sources */,

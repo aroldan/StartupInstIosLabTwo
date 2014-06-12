@@ -17,6 +17,10 @@ This will install the dependencies we need for the project, which are specified 
 
 In this lab, you should do a few things:
 
- 1. Search the [Giphy API](https://github.com/giphy/GiphyAPI) for GIFs that match search terms.
+ 1. Search the [Giphy API](https://github.com/giphy/GiphyAPI) for GIFs that match search terms and display them in the UITableView inside GASearchResultsTableViewController.
  1. Display still thumbnails of those animated GIFs.
  1. Show a full screen version of the animated GIF when you tap on one of them.
+
+### Hints
+
+The first tab of the app takes the first item from the trending GIFs on Giphy and displays a still version of the first image once the response comes back. This demonstrates how to use AFNetworking to make an asynchronous network query.
